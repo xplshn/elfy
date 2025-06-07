@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/urfave/cli/v3"
+	"github.com/xplshn/elfy"
 
-	"elfy"
+	"github.com/urfave/cli/v3"
 )
 
 func main() {
